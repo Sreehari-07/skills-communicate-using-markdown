@@ -1,16 +1,24 @@
-# Daily Learning
+# Day 1: Start your blog
 
 ## Morning Planning
 
-- [ ] Check out the [github blog](https://github.blog/) for topic ideas.
-- [ ] Learn about [GitHub Pages](https://skills.github.com/#first-day-on-github).
-- [ ] Convert my first blog post into an actual webpage.
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
 
-## Review
+- [x] Make a plan
+- [x] Create a GitHub repo
+- [x] Start a branch
+- [x] Add a markdown file
+- [x] Commit the file
 
+## Afternoon Session
 
-Convert an image or video from dark mode to light mode using [ffmpeg](https://www.ffmpeg.org)
+What went well:
+- I learned how to create a repository
+- I created and switched to a new branch
 
-```bash
-ffmpeg -i input.mp4 -vf "negate,hue=h=180,eq=contrast=1.2:saturation=1.1" output.mp4
-```
+What was tricky:
+- Remembering the Markdown syntax
+
+Plans for tomorrow:
+- Add more content to my blog
+- Include some images
